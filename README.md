@@ -1,8 +1,5 @@
-# Project_1
-Project 1
-First, we downloaded the Excel file from here:
-https://public.opendatasoft.com/explore/dataset/global-shark-attack/table/?disjunctive.country&disjunctive.area&disjunctive.activity
+# Shark attack analysis
 
-Then we manually removed lines in Excel for Types that were seemingly not valid: Invalid, Unconfirmed, Unverified, Under Investigation, ?, (Blanks)
-
-Finally, we each downloaded the file and got to work on our analysis.
+First, run "Get_Clean_Starter_Data.ipynb"
+	This will download current data and do some very basic cleaning.
+After that, each of the ipnyb files is it's own cleaning and analysis for a different topic.
