@@ -37,3 +37,17 @@ There are a lot of unanswered questions brought up by this analysis. For example
 Are shark more likely to attack in warm waters, or is it just that people are more likely to spend time in waters that are warm - resulting in greater opportunities for an attack? 
 Are sharks attracted to people who are swimming and surfing, or are swimming and surfing just the most common activities in waters that happen to have sharks living in them?
 Are men more likely to be attacked because they smell different to a shark, or do men just spend more time in the water? Have the advances in women's equality in society - and the greater freedom to engage in recreational activities - had any impact on this disparity?
+
+
+
+
+Working file: shark_activities_species.ipynb
+Performed following clean up:
+- eliminated rows with incomplete data;
+- eliminated columns which were not relevant to the analysis
+- grouping typing of activities to more manageable list based on general concept of an activity
+- also, during the analysis, I tried to clean the "species" by categories. But the result was too general, many species were identified as just sharks. Therefore, that portion was not used for further analysis. (Thus, the file is named shark_activities_species).
+To run the file simply activate ("run" or shift+enter keys) the kernel. 
+The objective was to show connection between water activities and shark attacks, also to show the level of fatality of the attacks.
+The purpose of the analysis is to replace fear of shark with curiosity, desire to learn environment and animal's behaviors, promote education about the subject and engage constructive thinking about how can people and sharks coexist in the same environment without harming each other.
+(Devlysh, L.)
