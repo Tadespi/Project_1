@@ -1,0 +1,202 @@
+Index,Country,Area,Location,Best String,Best Rank
+0,JAMAICA,St. Marys Parish,James Bond Beach,"James Bond Beach, St. Marys Parish, JAMAICA",0.7615384615384615
+1,ST HELENA,Ascension Island,English Bay,"Ascension Island, ST HELENA",0.64
+2,FRENCH POLYNESIA,Tuamotus,Kaukura Atoll,"Kaukura Atoll, FRENCH POLYNESIA",0.5
+3,REUNION ISLAND,Saint-Pierre,Pointe du Diable,"Saint-Pierre, REUNION ISLAND",0.25
+4,TONGA,Tongapatu Group,Between 'Ata and Tongapatu,"Between 'Ata and Tongapatu, Tongapatu Group, TONGA",0.20253806999999996
+5,REUNION ISLAND,Saint-Pierre,Pic du Diable,"Saint-Pierre, REUNION ISLAND",0.25
+6,MOZAMBIQUE,Inhambe Province,"Inhambe Bay Estuary, 10 to 12 miles inland from the sea","Inhambe Province, MOZAMBIQUE",0.63
+7,CROATIA,"Split-Dalmatia Count,","Sućuraj, Hvar Island","Hvar Island, Split-Dalmatia Count,, CROATIA",0.7034210526315791
+8,GREECE,Cyclades archipelago,Between the islands of Tenos and Andros,"Cyclades archipelago, GREECE",0.567
+9,FRENCH POLYNESIA,Society Islands,Tetiaroa,,0.0
+10,REUNION ISLAND,L' Etang Salé-les-Bains,Roche-aux-Oiseaux,"Roche-aux-Oiseaux, L' Etang Salé-les-Bains, REUNION ISLAND",0.567
+11,REUNION ISLAND,Saint-Joseph,Lieu-dit Cayenne,"Saint-Joseph, REUNION ISLAND",0.25
+12,WESTERN SAMOA,Upolu Island,Nu’ulua,"Nu’ulua, WESTERN SAMOA",0.63
+13,SOUTH ATLANTIC OCEAN,South of the Equator,Steamship bound from Cape Town to Philadelphia,,0.0
+14,FRENCH POLYNESIA,Society Islands,"Tapu, a dive site on the outer reefs of Bora Bora",,0.0
+15,CHILE,Valpariso Province,Valpariso,"Valpariso Province, CHILE",0.45
+16,DOMINICAN REPUBLIC,Between DR and Puerto Rico,Mona Passage,"Mona Passage, DOMINICAN REPUBLIC",0.63
+17,ITALY,Tyrrhenian Sea,Capo d'Anzio,"Capo d'Anzio, ITALY",0.6666666666666667
+18,NORTH ATLANTIC OCEAN,In the Gulf Stream,Between Bimini & Miami,"Between Bimini & Miami, In the Gulf Stream, NORTH ATLANTIC OCEAN",0.5
+19,MONTENEGRO,Adriatic Sea,Between St. Stjepan and Budva,"Adriatic Sea, MONTENEGRO",0.63
+20,INDIA,Bay of Bengal,Madras Harbor,"Madras Harbor, INDIA",0.63
+21,FRENCH POLYNESIA,Tuamotu Islands,Tikehau,,0.0
+22,GRAND CAYMAN,East Wall,Jack McKenney's Canyon,"East Wall, GRAND CAYMAN",0.3969
+23,SENEGAL,Cap Vert Peninsula,Yoff Island,"Cap Vert Peninsula, SENEGAL",0.567
+24,MICRONESIA,Eastern Caroline Islands,Truk Lagoon,"Truk Lagoon, MICRONESIA",0.6428571428571429
+25,NEW BRITAIN,"South Coast, East New Britain",Pomio,"Pomio, South Coast, East New Britain, NEW BRITAIN",0.2
+26,PAPUA NEW GUINEA,Madang (WO),"Off Taludig Village, at mouth of the Murnass River",,0.0
+27,IRELAND,Off Ireland,82 miles from Fastnet,"Off Ireland, IRELAND",0.125
+28,GUINEA,Conakry Region,Ile de Loss,"Ile de Loss, Conakry Region, GUINEA",0.5
+29,TONGA,Minerva Reef,Treated at Nuku-alofa,,0.0
+30,VANUATU,Malampa Province,"Port Sandwich, Malakula","Port Sandwich, Malakula, VANUATU",0.7142857142857143
+31,JAPAN,Izo Islands,"Mikura-jima Island, 150 miles south of Tokyo","Izo Islands, JAPAN",0.5103000000000001
+32,COSTA RICA,Turtle Bogue,Where Colorado River enters the sea,,0.0
+33,REUNION ISLAND,Sainte-Marie,Baie de la Mare,"Sainte-Marie, REUNION ISLAND",0.25
+34,MOZAMBIQUE,Limpopo River,"Gijana, 150 km inland","Limpopo River, MOZAMBIQUE",0.6666666666666667
+35,BAHAMAS,Bimini Islands,Lerner Marine Lab,"Lerner Marine Lab, Bimini Islands, BAHAMAS",0.6000000000000001
+36,ISRAEL,Sharon,2 km north of Apollonia,,0.0
+37,NEW GUINEA,Milne Bay Province,"Uga, Banaira, Milne Bay","Uga, Banaira, Milne Bay, NEW GUINEA",0.3969
+38,PACIFIC OCEAN,Between Hawaii & Wake Island,600 miles northwest of Honolulu,"Between Hawaii & Wake Island, PACIFIC OCEAN",0.5
+39,AUSTRALIA,Westerm Australia,Dugong Bay,"Westerm Australia, AUSTRALIA",0.5
+40,SCOTLAND,Inner Hebrides,Off the Isle of Islay,"Inner Hebrides, SCOTLAND",0.6666666666666667
+41,HONG KONG,New Territories,Silverstrand,,0.0
+42,PHILIPPINES,Rombion Province,Off Sibuyan Island,"Off Sibuyan Island, Rombion Province, PHILIPPINES",0.6666666666666667
+43,PANAMA,San Blas coast,"4 miles from Tuwala, near Mulatuppu","San Blas coast, PANAMA",0.4
+44,AUSTRALIA,Tasmania,"Whale Bay, King Island, Bass Strait","Whale Bay, King Island, Bass Strait, AUSTRALIA",0.775
+45,PACIFIC OCEAN,Near the Fiji Islands,22º08'S  : 178º06'W,,0.0
+46,PAPUA NEW GUINEA,Northern (Oro) Province,"Dobu Passage,  D'Entrecasteaux Islands (between Normanby & Fergusson Islands)","Dobu Passage,  D'Entrecasteaux Islands (between Normanby & Fergusson Islands), Northern (Oro) Province, PAPUA NEW GUINEA",0.6962264150943397
+47,MEXICO,Gulf of California,Tobari Bay,"Tobari Bay, Gulf of California, MEXICO",0.25
+48,FRENCH POLYNESIA,Tuamotos,Makemo Atoll,,0.0
+49,EGYPT,South Sinai Peninsula,"Middle Garden, Sharm el-Shiekh","Middle Garden, Sharm el-Shiekh, EGYPT",0.4909090909090909
+50,SOUTH AFRICA,KwaZulu-Natal between Port Edward and Port St Johns,Off Mkhambati,"KwaZulu-Natal between Port Edward and Port St Johns, SOUTH AFRICA",0.6
+51,NEW CALEDONIA,South Province,l'Anse-Vata,"l'Anse-Vata, South Province, NEW CALEDONIA",0.5103
+52,TONGA,Tongapatu Group,Between 'Ata and Tongapatu,"Between 'Ata and Tongapatu, Tongapatu Group, TONGA",0.20253806999999996
+53,PACIFIC OCEAN,"250 miles southwest of O'ahu, Hawaii",Japanese fishing boat Taihei Maru No.10,,0.0
+54,IRAN,Shatt-al-Arab River,Bashamir,"Shatt-al-Arab River, IRAN",0.3333333333333333
+55,PANAMA,Panama Bay (Pacific Ocean),Otoque Island,"Otoque Island, Panama Bay (Pacific Ocean), PANAMA",0.567
+56,NEW CALEDONIA,Loyalty Islands,"Bay of Bweedro, Ouvéa","Ouvéa, Loyalty Islands, NEW CALEDONIA",0.6666666666666667
+57,HONG KONG,New Territories,Sai Kung Beach,,0.0
+58,PAPUA NEW GUINEA,Near Bougainville (North Solomons),Huhunoti Island,"Huhunoti Island, Near Bougainville (North Solomons), PAPUA NEW GUINEA",0.7338461538461538
+59,AUSTRALIA,Tasmania,Ralph Bay,"Ralph Bay, AUSTRALIA",0.5904900000000002
+60,MEXICO,Guyamas,San Pedro Nolasco Island,"San Pedro Nolasco Island, Guyamas, MEXICO",0.6428571428571429
+61,COLOMBIA,Caribbean Sea,Cartegena,"Cartegena, COLOMBIA",0.7290000000000001
+62,PHILIPPINES,300 miles east of Luzon,USS Hull DD-350 was one of 3 destroyers that capsized in Typhoon Cobra,,0.0
+63,MALDIVES,Raa Atoll,Faadoo Island,"Faadoo Island, Raa Atoll, MALDIVES",0.1521
+64,RUSSIA,Kuril Islands in the Pacific,"Kunashir Island, 70 km from northern Japan","Kunashir Island, Kuril Islands in the Pacific, RUSSIA",0.5951020408163266
+65,VANUATU,Malampa Province,"Off the beach opposite Atchin Island, Malakula","Malampa Province, VANUATU",0.63
+66,ENGLAND,In the English Channel,Off the south Devon coast,"In the English Channel, ENGLAND",0.6
+67,FRENCH POLYNESIA,Tuamotus,"Outer edge of Hikueru, one of the Central Tuamotu atolls","one of the Central Tuamotu atolls, Tuamotus, FRENCH POLYNESIA",0.015054799470071063
+68,JAMAICA,Westmoreland Parish,Cabaritta River mouth,"Westmoreland Parish, JAMAICA",0.33333333333333337
+69,FIJI,Vanua Levu,Dawara,"Vanua Levu, FIJI",0.6666666666666667
+70,NEW CALEDONIA,South Province,L'llot Maetre,,0.0
+71,NEW CALEDONIA,South Province,Cap Goulvain,"Cap Goulvain, South Province, NEW CALEDONIA",0.02029967360946745
+72,PANAMA,San Blas,Off Achutuppu Island near Ailigandi,,0.0
+73,NEW ZEALAND,Cook islans,Penhryn Island,"Cook islans, NEW ZEALAND",0.567
+74,NEW CALEDONIA,South Province,Amedee Island,"Amedee Island, NEW CALEDONIA",0.5670000000000001
+75,MOZAMBIQUE,Limpopo River,"Gijana, 150 km inland","Limpopo River, MOZAMBIQUE",0.6666666666666667
+76,TAIWAN,Northern Taiwan,Tamsui Beach,"Tamsui Beach, TAIWAN",0.63
+77,TAIWAN,Northern Taiwan,"Tamsui Beach, Taipai","Tamsui Beach, Taipai, Northern Taiwan, TAIWAN",0.5
+78,NORTH PACIFIC OCEAN,Wake Island (EnenKio),"Leeward side of island, directly in back of Mid-Pac barrel storage area","directly in back of Mid-Pac barrel storage area, Wake Island (EnenKio), NORTH PACIFIC OCEAN",0.5670000000000001
+79,PHILIPPINES,Queaon,Between Unisan & Angadanan Islands,"Between Unisan & Angadanan Islands, Queaon, PHILIPPINES",0.5
+80,PHILIPPINES,In transit between Tinian and Leyte,200 miles Leyte,,0.0
+81,PACIFIC OCEAN,Off coast of Ecuador,Between Esmeraldas & Salinas,"Off coast of Ecuador, PACIFIC OCEAN",0.23076923076923078
+82,PAPUA NEW GUINEA,"Abau Sub District, Central Province",Aroma Passage,"Aroma Passage, PAPUA NEW GUINEA",0.7448275862068966
+83,SPAIN,Balearics,Isla Cabrera,"Isla Cabrera, Balearics, SPAIN",0.3969
+84,REUNION ISLAND,Saint-Benoit,Port de la Marine,"Saint-Benoit, REUNION ISLAND",0.2747769230769231
+85,VANUATU,Malampa Province,Atchin Island off Malakula,"Malampa Province, VANUATU",0.63
+86,ITALY,Tyrrhenian Sea,"Circeo, Secca del Quadro","Tyrrhenian Sea, ITALY",0.63
+87,SAMOA,South Pacific Ocean,North of Northeast Samoa,"North of Northeast Samoa, South Pacific Ocean, SAMOA",0.5011875000000001
+88,SOLOMON ISLANDS,Bougainville (North Solomons),Kieta,,0.0
+89,BAHAMAS,Bimini Islands,Lerner Marine Laboratory,"Lerner Marine Laboratory, Bimini Islands, BAHAMAS",0.6000000000000001
+90,IRAN,Shatt-al-Arab River,Bashamir,"Shatt-al-Arab River, IRAN",0.3333333333333333
+91,REUNION ISLAND,5aint-Denis,Barachois,"Barachois, REUNION ISLAND",0.25
+92,USA,Virgin Islands,"Candle Reef, St. Croix","Candle Reef, St. Croix, USA",0.567
+93,BAHAMAS,Northern Bahamas,Dive site known as The End of the Map,"Northern Bahamas, BAHAMAS",0.6521739130434783
+94,REUNION ISLAND,Saint-Pierre,Pic du Diable,"Saint-Pierre, REUNION ISLAND",0.25
+95,REUNION ISLAND,Saint-Paul,Cap de la Marianne,"Saint-Paul, REUNION ISLAND",0.25
+96,NEW CALEDONIA,South Province,"Sarcelle, Isle of Pines",,0.0
+97,BAHAMAS,Andros Islands,North Rat Cay Reef,"Andros Islands, BAHAMAS",0.567
+98,MOZAMBIQUE,Limpopo River,3.2 km inland,"3.2 km inland, Limpopo River, MOZAMBIQUE",0.6666666666666667
+99,TAIWAN,Northern Taiwan,Tamsui Beach,"Tamsui Beach, TAIWAN",0.63
+100,PACIFIC OCEAN,Between Hawaii & Wake Island,600 miles northwest of Honolulu,"Between Hawaii & Wake Island, PACIFIC OCEAN",0.5
+101,NEW CALEDONIA,South Province,St. Vincent Bay,"St. Vincent Bay, South Province, NEW CALEDONIA",0.44099999999999995
+102,REUNION ISLAND,Saint-Benoît,Spot de la gare,"Saint-Benoît, REUNION ISLAND",0.2747769230769231
+103,OKINAWA,Miyako Island,Boragawa Beach,"Boragawa Beach, OKINAWA",0.6666666666666667
+104,BAHAMAS,Grand Bahama Island,"Memory Rock, 18 miles from NW end of the Island","Memory Rock, Grand Bahama Island, BAHAMAS",0.4378378378378379
+105,EGYPT,"South Sinai, Gulf of Aqaba","1 km off the mouth of Marsa Bereika, north of Ras Mohammed","South Sinai, Gulf of Aqaba, EGYPT",0.4
+106,HONG KONG,"On the Kowloon penisula, south of Sai Kung",Silverstrand,,0.0
+107,REUNION ISLAND,Grand'Anse,Petite-Ile,"Grand'Anse, REUNION ISLAND",0.5
+108,KENYA,Lamu Archipelago,South of Lamu Island,,0.0
+109,AUSTRALIA,Tasmania,Elliot's Cove,,0.0
+110,MOZAMBIQUE,Limpopo River,"Gijana, 150 km inland","Limpopo River, MOZAMBIQUE",0.6666666666666667
+111,TAIWAN,Taipei Hsien,Off Cape of Pi-tou,"Taipei Hsien, TAIWAN",0.5
+112,USA,US Virgin Islands,"St. John, Genti Bay","St. John, Genti Bay, USA",0.7290000000000001
+113,IRAN,Shatt-al-Arab River,Vicinity of Abadan,"Shatt-al-Arab River, IRAN",0.3333333333333333
+114,SOLOMON ISLANDS,Makira-Ulawa Province,Makira Island (Formerly San Cristobal),"Makira Island (Formerly San Cristobal), Makira-Ulawa Province, SOLOMON ISLANDS",0.39690000000000003
+115,AUSTRALIA,Westerm Australia,Sam's Creek area,"Westerm Australia, AUSTRALIA",0.5
+116,REUNION ISLAND,d’Étang-Salé,Ravine Mula,,0.0
+117,REUNION ISLAND,Saint-Gilles-les-Bains,Boucan-Canot,"Boucan-Canot, REUNION ISLAND",0.25
+118,YEMEN,Muhafazat Hadramawt,Ras-Alkalb,"Ras-Alkalb, YEMEN",0.63
+119,NORTH PACIFIC OCEAN,Between Kwajalein Atoll & Johnston Island,500 nautical miles southwest of Johnston Island,"Between Kwajalein Atoll & Johnston Island, NORTH PACIFIC OCEAN",0.33333333333333337
+120,INDONESIA,30 nm from Singapore,Rhio Strait,,0.0
+121,AUSTRALIA,Tasmania,George Town Cove,"George Town Cove, Tasmania, AUSTRALIA",0.63
+122,BAHAMAS,Grand Bahama Island,East End Point,"East End Point, BAHAMAS",0.63
+123,FIJI,Vanua Levu,"Nailou Village, Tunuloa Natewa Bay","Vanua Levu, FIJI",0.6666666666666667
+124,FEDERATED STATES OF MICRONESIA,Eastern Caroline Islands,"Koop Reef, Truk (Chuuk)",,0.0
+125,SOUTH ATLANTIC OCEAN,Off coast of West Africa,Off the passenger liner Stirling Castle,,0.0
+126,PAPUA NEW GUINEA,"New Ireland Province, Bismarck Archipelago","Pekinberui Village, Tabar Island","Pekinberui Village, Tabar Island, PAPUA NEW GUINEA",0.7630434782608696
+127,ITALY,Ligurian Sea,"Genova, S. Nazaro, Punta Vagno","Genova, S. Nazaro, Punta Vagno, ITALY",0.5103000000000001
+128,MEXICO,Baja California,Descano Point,"Descano Point, Baja California, MEXICO",0.315
+129,CROATIA,Adriatic Sea,Medola,"Adriatic Sea, CROATIA",0.63
+130,ST KITTS / NEVIS,The Narrows,Booby Island,"Booby Island, The Narrows, ST KITTS / NEVIS",0.7384615384615385
+131,MALDIVES,Alifu Alifu Atoll,Madoogali,"Madoogali, Alifu Alifu Atoll, MALDIVES",0.5294117647058824
+132,REUNION ISLAND,La Saline-les-Bains,Revine-3-Bassins,,0.0
+133,SENEGAL,Cap Vert Peninsula,Thiaroye Guedi,"Thiaroye Guedi, Cap Vert Peninsula, SENEGAL",0.567
+134,THE BALKANS,Slovenia,Between Punta Grossa & Koper,"Between Punta Grossa & Koper, Slovenia, THE BALKANS",0.63
+135,SAN DOMINGO,60 miles north of San Domingo in the West Indies,Muchoir Banks,"Muchoir Banks, 60 miles north of San Domingo in the West Indies, SAN DOMINGO",0.63
+136,THAILAND,"Muang district of Satun province,",Chebilang pier,,0.0
+137,FRENCH POLYNESIA,Tuamotus,"North Pass, Fakarava","North Pass, Fakarava, Tuamotus, FRENCH POLYNESIA",0.011479591836734698
+138,AUSTRALIA,Tasmania,near Schouten Island,"near Schouten Island, Tasmania, AUSTRALIA",0.6666666666666667
+139,REUNION ISLAND,Saint-Paul,Cap de la Marianne,"Saint-Paul, REUNION ISLAND",0.25
+140,HONG KONG,Port Shelter,"Silverstrand Beach, near Hung Hau","Silverstrand Beach, near Hung Hau, HONG KONG",0.0669894666525
+141,REUNION ISLAND,Saint-Philippe,Vicendo,"Saint-Philippe, REUNION ISLAND",0.25
+142,CROATIA,Primorje-Gorski Kotar County,"Opatija, northwestern coast of Rijeka Bay","Primorje-Gorski Kotar County, CROATIA",0.6561000000000001
+143,TURKS AND CAICOS,Providenciales Island,Grace Bay Beach,"Grace Bay Beach, Providenciales Island, TURKS AND CAICOS",0.567
+144,REUNION ISLAND,L'Etang-Salé,"Ravine des Sables, Saint Leu","Saint Leu, L'Etang-Salé, REUNION ISLAND",0.25
+145,FIJI,Lau Province,"Dravuwalu, Totoya Island","Lau Province, FIJI",0.63
+146,PAPUA NEW GUINEA,Kikori River mouth,"Ururumba, mouth of Kikori River 7.45S, 144.40E","144.40E, Kikori River mouth, PAPUA NEW GUINEA",0.6666666666666667
+147,SOLOMON ISLANDS,Makora-Ulawa Province,Cape Esperance (near Savo Islands),"Makora-Ulawa Province, SOLOMON ISLANDS",0.42525
+148,SAMOA,Apolima Strait,Opposite Apelima &  Manona,"Apolima Strait, SAMOA",0.567
+149,CROATIA,"Split-Dalmatia Count,","Smokvina Bay, Vis Island","Vis Island, Split-Dalmatia Count,, CROATIA",0.34326486486486485
+150,REUNION ISLAND,Saint-Joseph,Lieu-dit Cayenne,"Saint-Joseph, REUNION ISLAND",0.25
+151,NEW GUINEA,Central Province,Off Gaire Village,"Off Gaire Village, NEW GUINEA",0.5
+152,IRAN,Shatt-al-Arab River,Bashamir,"Shatt-al-Arab River, IRAN",0.3333333333333333
+153,AUSTRALIA,Tasmania,Between Port Arthur Penal Colony & Forestier Peninsula,,0.0
+154,VANUATU,Sanma Province,"Bay of Yago, Espiritu Santo Island",,0.0
+155,ST HELENA,Ascension Island,English Bay,"Ascension Island, ST HELENA",0.64
+156,PALAU,Aulong Island,Aulong Channel,"Aulong Channel, Aulong Island, PALAU",0.5062500000000001
+157,MOZAMBIQUE,Inhambe Province,"Inhasoka, Inhambe Bay","Inhambe Province, MOZAMBIQUE",0.63
+158,NORTH SEA,"Unknown, treated at Wick, SCOTLAND","On board  East German fishing trawler, I Mai","On board  East German fishing trawler, I Mai, Unknown, treated at Wick, SCOTLAND, NORTH SEA",0.32148899999999997
+159,USA,Wake Island,Wilkes Islet Lagoon (Pacific Ocean north of the Marshall Islands),"Wake Island, USA",0.6666666666666667
+160,MOZAMBIQUE,Zambesi River,Portuguese territory,"Portuguese territory, MOZAMBIQUE",0.567
+161,BAHAMAS,Bimini Islands,Off Gun Cay,"Off Gun Cay, BAHAMAS",0.6666666666666667
+162,FRENCH POLYNESIA,Marquesas,"Atuona Bay, Hiva Oa Island","Hiva Oa Island, Marquesas, FRENCH POLYNESIA",0.225
+163,VENEZUELA,Anzoategui,"Playa Colorada Beach, Mochima National Park, only 200 m west of Santa Cruz Beach","Playa Colorada Beach, Mochima National Park, Anzoategui, VENEZUELA",0.5666666666666667
+164,REUNION ISLAND,Sainte-Suzanne,Temple Tamoule,"Sainte-Suzanne, REUNION ISLAND",0.25
+165,ADMIRALTY ISLANDS,Manus Island,Sisi  (west coast of island),"Manus Island, ADMIRALTY ISLANDS",0.713793103448276
+166,REUNION ISLAND,Saint-Denis,Barachoise bridge,"Saint-Denis, REUNION ISLAND",0.2857680000000001
+167,FRENCH POLYNESIA,Tuamotos,Makemo Atoll,,0.0
+168,REUNION ISLAND,d’Étang-Salé,Ravine Mula,,0.0
+169,JAMAICA,Kingston Parish,Pedro Cays,"Pedro Cays, JAMAICA",0.567
+170,COLOMBIA,San Andrés archipelago,Albuquerque Cay,"San Andrés archipelago, COLOMBIA",0.321489
+171,NEW ZEALAND,Cook Islands,Pukapuka Northern Group,"Cook Islands, NEW ZEALAND",0.6260869565217392
+172,DOMINICAN REPUBLIC,12 miles off the north coast,Boeing 757 enroute from Porta Plata,,0.0
+173,ATLANTIC OCEAN,9.35N 79.35W,"East of La Grande Island, North of Panama Canal","East of La Grande Island, North of Panama Canal, ATLANTIC OCEAN",0.6561000000000001
+174,CROATIA,Adriatic Sea,"Susak / Fiume (Rijeka, Istria)","Adriatic Sea, CROATIA",0.63
+175,CANADA,Bay of Fundy,16 km west of Digby Gut,"Bay of Fundy, CANADA",0.75
+176,FRENCH POLYNESIA,Tuamotus,Rangiroa,"Rangiroa, FRENCH POLYNESIA",0.6561000000000001
+177,GUYANA,Demerara County,Off the Demerara River,"Off the Demerara River, Demerara County, GUYANA",0.6027906976744186
+178,REUNION ISLAND,Bois-Blanc,Sainte-Rose,"Sainte-Rose, Bois-Blanc, REUNION ISLAND",0.25
+179,OKINAWA,Miyako Island,Sunayama Beach,"Sunayama Beach, OKINAWA",0.6666666666666667
+180,BAHAMAS,Florida Straits,Off Cay Sal  Banks,,0.0
+181,PALAU,Western Caroline Islands (North Pacific Ocean),Outside barrier reef,"Western Caroline Islands (North Pacific Ocean), PALAU",0.603529411764706
+182,MOZAMBIQUE,Limpopo River,190 km to 240 km from the sea,"Limpopo River, MOZAMBIQUE",0.6666666666666667
+183,PAPUA NEW GUINEA,"New Ireland Province, Bismarck Archipelago","Maritzoan, east coast of Namatanai","New Ireland Province, Bismarck Archipelago, PAPUA NEW GUINEA",0.45
+184,PANAMA,"2 to 3 miles off Taboguilla Island, Pacific Ocean",Pacific Anchorage off the Panama Canal,"Pacific Anchorage off the Panama Canal, PANAMA",0.567
+185,FRENCH POLYNESIA,Central Tuamotu,"Tupapati, Hikueru Atoll",,0.0
+186,MEXICO,Baja California,San Luis beach,"San Luis beach, MEXICO",0.567
+187,REUNION ISLAND,Conservatória District,"P' tit Paris, Saint-Pierre","P' tit Paris, Saint-Pierre, REUNION ISLAND",0.5103000000000001
+188,NEW CALEDONIA,South Province,Île de Casey,"Île de Casey, South Province, NEW CALEDONIA",0.32148899999999997
+189,CROATIA,Primorje-Gorski Kotar County,Preluka Harbour,"Primorje-Gorski Kotar County, CROATIA",0.6561000000000001
+190,FIJI,Vanua Levu,Off the Bua coast,"Vanua Levu, FIJI",0.6666666666666667
+191,PAPUA NEW GUINEA,"Abau Sub District, Central Province",Lalaura Village,"Lalaura Village, PAPUA NEW GUINEA",0.6270967741935484
+192,AUSTRALIA,Tasmania,Off Big Friar Island,,0.0
+193,SOUTH ATLANTIC OCEAN,In Convoy OB 274,Off Sierra Leone,,0.0
+194,TURKS AND CAICOS,Middle Caicos,Mudjin Harbor,"Mudjin Harbor, Middle Caicos, TURKS AND CAICOS",0.5
+195,TAIWAN,Off Green Island,Onboard the fishing vessel Chin Sheng Fa 13,,0.0
+196,PERSIAN GULF,25 km off the coast of Iran & 483km from mouth of Persian Gulf,Khark Island,"Khark Island, 25 km off the coast of Iran & 483km from mouth of Persian Gulf, PERSIAN GULF",0.25
+197,NEW GUINEA,Madang Province,Manam Island,"Manam Island, NEW GUINEA",0.5
+198,PANAMA,Canal Zone,300 yards west of mouth of the Chagres River,"Canal Zone, PANAMA",0.44099999999999995
+199,NEW GUINEA,"Abau Sub District, Central Province",Kerpuna,"Kerpuna, NEW GUINEA",0.3969
+200,CROATIA,Adriatic Sea,"Susak (Rijeka, Istria)","Adriatic Sea, CROATIA",0.63
